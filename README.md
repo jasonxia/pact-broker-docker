@@ -1,7 +1,7 @@
 # Dockerised Pact Broker
+==================
 
 This repository will start postgres docker container and [pact broker container](https://github.com/DiUS/pact_broker-docker)
-==================
 
 This repository deploys [Pact Broker](https://github.com/bethesque/pact_broker) using lightweight containers using Docker.
 
